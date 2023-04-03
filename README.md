@@ -1,6 +1,6 @@
 # Gerência de Estados
 
-Projeto desenvolvido durante o curso Academia do Flutter sobre 4 tipo de gerência de estados nativos do Flutter.
+Projeto desenvolvido durante o curso da Academia do Flutter sobre 4 tipo de gerência de estados que são desenvolvidas com as estruturas padrões do Flutter.
 
 ## Habilidades desenvolvidas
 
